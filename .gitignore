@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+app/data/trained_model.pkl
+app/data/uploaded_data.csv
