@@ -9,8 +9,10 @@ This is an API built with FastAPI that predicts machine downtime or production d
 
 
 
-
 ## Requirements
+
+pip install -r requirements.txt
+uvicorn app.main:app --reload
 
 - Python 3.10 or higher
 - FastAPI
